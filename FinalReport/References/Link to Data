@@ -1,1 +1,4 @@
 https://www.kaggle.com/datasets/mateusdmachado/csgo-professional-matches
+I have also included the direct csv files for the data except for one. Unfortunately it is too big of a file to 
+upload on github. The csv missing is called players.csv. The way to access it is to follow the link provided above
+download the zip and then unzip it. Inside the folder will be 4 csv files.
